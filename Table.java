@@ -10,7 +10,7 @@ System.out.println("enter table");
 int t=s.nextInt();
 for(int i=1;i<=n;i++)
 {
-System.out.println("t*i="i*t);
+System.out.println(i*t);
 }
 }
 }
